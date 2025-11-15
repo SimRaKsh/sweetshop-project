@@ -1,4 +1,4 @@
-SweetShop – Full-Stack Web Application
+##SweetShop – Full-Stack Web Application
 A FastAPI + React Based Sweet Store Management System
 SweetShop is a full-stack web application that allows users to browse sweets, purchase items, and manage inventory.
 Admin users can add, delete, and restock sweets.
