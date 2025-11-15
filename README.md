@@ -61,7 +61,9 @@ npm start
 <img width="870" height="309" alt="Screenshot 2025-11-16 014851" src="https://github.com/user-attachments/assets/8e90e006-092c-4867-b410-fea3202dcb0f" />
 <img width="1919" height="1199" alt="Screenshot 2025-11-16 011219" src="https://github.com/user-attachments/assets/93142456-a622-47a6-9c7f-4bb0512eb897" />
 <img width="1919" height="1199" alt="Screenshot 2025-11-16 011235" src="https://github.com/user-attachments/assets/233721e9-a2e6-46b5-b073-d1f040e2f000" />
-## Screenshots
+
+## ScreenShots
+
 - Welcome Page
   <img width="1917" height="1038" alt="Screenshot 2025-11-15 235550" src="https://github.com/user-attachments/assets/55afd2fe-cd93-4e92-9e84-7c7bd2553e89" />
 - Registration Page
@@ -72,12 +74,14 @@ npm start
   <img width="1901" height="1036" alt="Screenshot 2025-11-15 235703" src="https://github.com/user-attachments/assets/cde1e5d6-8eb6-4a29-b7a8-373cfb8fc353" />
 - Admin Dashboard
   <img width="1898" height="1036" alt="Screenshot 2025-11-15 235724" src="https://github.com/user-attachments/assets/4c711e5a-bb45-48fb-a039-f7b8d0dc1e9c" />
-## Tests (PyTest)
+
+## Pytest
 Run backend tests:
 ```
 pytest
 ```
 <img width="1478" height="659" alt="Screenshot 2025-11-16 005347" src="https://github.com/user-attachments/assets/933c61cc-f0ae-47e9-b342-5bef675f4093" />
+
 ## AI Usage Note
 ChatGPT was used for:
 -Debugging issues such as JWT token errors, CORS problems, and SQLite conflicts - Multi-layer backend debugging
