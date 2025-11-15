@@ -61,7 +61,7 @@ npm start
 <img width="870" height="309" alt="Screenshot 2025-11-16 014851" src="https://github.com/user-attachments/assets/8e90e006-092c-4867-b410-fea3202dcb0f" />
 <img width="1919" height="1199" alt="Screenshot 2025-11-16 011219" src="https://github.com/user-attachments/assets/93142456-a622-47a6-9c7f-4bb0512eb897" />
 <img width="1919" height="1199" alt="Screenshot 2025-11-16 011235" src="https://github.com/user-attachments/assets/233721e9-a2e6-46b5-b073-d1f040e2f000" />
-## Screenshots (Add Your Images)
+## Screenshots
 - Welcome Page
   <img width="1917" height="1038" alt="Screenshot 2025-11-15 235550" src="https://github.com/user-attachments/assets/55afd2fe-cd93-4e92-9e84-7c7bd2553e89" />
 - Registration Page
